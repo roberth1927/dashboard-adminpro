@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ChartData, ChartEvent, ChartType } from 'chart.js';
 
 @Component({
   selector: 'app-grafica1',
@@ -8,4 +9,5 @@ import { Component } from '@angular/core';
 })
 export class Grafica1Component {
 
-}
+};
+
